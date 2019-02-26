@@ -17,37 +17,17 @@
                BlueprintIdentifier = "B9D2AF282224C5D2009E24A3"
                BuildableName = "ToDo.app"
                BlueprintName = "ToDo"
-               ReferencedContainer = "container:">
+               ReferencedContainer = "container:ToDo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9D2AF3C2224C5D3009E24A3"
-               BuildableName = "ToDoTests.xctest"
-               BlueprintName = "ToDoTests"
-               ReferencedContainer = "container:">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9D2AF472224C5D3009E24A3"
-               BuildableName = "ToDoUITests.xctest"
-               BlueprintName = "ToDoUITests"
-               ReferencedContainer = "container:">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
@@ -55,14 +35,14 @@
             BlueprintIdentifier = "B9D2AF282224C5D2009E24A3"
             BuildableName = "ToDo.app"
             BlueprintName = "ToDo"
-            ReferencedContainer = "container:">
+            ReferencedContainer = "container:ToDo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -78,7 +58,7 @@
             BlueprintIdentifier = "B9D2AF282224C5D2009E24A3"
             BuildableName = "ToDo.app"
             BlueprintName = "ToDo"
-            ReferencedContainer = "container:">
+            ReferencedContainer = "container:ToDo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,12 +77,12 @@
             BlueprintIdentifier = "B9D2AF282224C5D2009E24A3"
             BuildableName = "ToDo.app"
             BlueprintName = "ToDo"
-            ReferencedContainer = "container:">
+            ReferencedContainer = "container:ToDo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
-      buildConfiguration = "Debug">
+      buildConfiguration = "Release">
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
