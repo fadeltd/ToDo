@@ -3,11 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
+	<dict/>
+	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>ToDo.xcscheme_^#shared#^_</key>
+		<key>B9D2AF282224C5D2009E24A3</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B9D2AF3C2224C5D3009E24A3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B9D2AF472224C5D3009E24A3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
