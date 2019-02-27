@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("This is main page")
+        print("Hello, this is main page")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
